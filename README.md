@@ -13,4 +13,4 @@
 * Внесені зміни зберігаються автоматично
 
 # Скріншоти
-![Рис.1 - Скріншот системи керування задачами](https://github.com/goodflo-99/kpp_lab2/raw/master/Scrin.jpg)
+![Рис.1 - Скріншот системи керування задачами](https://github.com/goodflo-99/kpp_lab3/raw/master/Scrin.jpg)
